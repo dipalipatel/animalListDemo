@@ -4,7 +4,7 @@ Anime App compose code
 /*
 README.md Overview:
 
--This app contains two screens : One for displaying a list of Anime which fetched from a public API and 
+- This app contains two screens : One for displaying a list of Anime which fetched from a public API and 
  other for showing the details of selected Anime item.
 - This is a modular MVVM clean architecture app that implements a structured and scalable approach using multiple
   modules, ensuring maintainability, testability, and separation of concerns.
@@ -36,7 +36,7 @@ README.md Overview:
   - util: Common utilities.
   - useCase : Anim repository call
   - repository: Interface of AnimList for fetching data
-- Screenshots: [Attach screenshots of Splash screen, AnimeList and AnimeDetail screens here]
+- Screenshots: [Attach screenshots of AnimeList and AnimeDetail screens here]
 */
 
 ![Anime_list_screen.png](Anime_list_screen.png)
